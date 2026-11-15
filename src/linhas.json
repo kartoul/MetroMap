@@ -1,0 +1,1017 @@
+{
+  "Azul (1)": [
+    [
+      "Tucuruvi",
+      "Parada Inglesa",
+      1.01
+    ],
+    [
+      "Parada Inglesa",
+      "Jardim São Paulo-Ayrton Senna",
+      1.08
+    ],
+    [
+      "Jardim São Paulo-Ayrton Senna",
+      "Santana",
+      1.44
+    ],
+    [
+      "Santana",
+      "Carandiru",
+      0.78
+    ],
+    [
+      "Carandiru",
+      "Portuguesa-Tietê",
+      0.81
+    ],
+    [
+      "Portuguesa-Tietê",
+      "Armênia",
+      1.16
+    ],
+    [
+      "Armênia",
+      "Tiradentes",
+      0.73
+    ],
+    [
+      "Tiradentes",
+      "Luz",
+      0.62
+    ],
+    [
+      "Luz",
+      "São Bento",
+      0.96
+    ],
+    [
+      "São Bento",
+      "Sé",
+      0.77
+    ],
+    [
+      "Sé",
+      "Liberdade",
+      0.6
+    ],
+    [
+      "Liberdade",
+      "São Joaquim",
+      0.88
+    ],
+    [
+      "São Joaquim",
+      "Vergueiro",
+      0.8
+    ],
+    [
+      "Vergueiro",
+      "Paraíso",
+      0.79
+    ],
+    [
+      "Paraíso",
+      "Ana Rosa",
+      0.74
+    ],
+    [
+      "Ana Rosa",
+      "Vila Mariana",
+      0.98
+    ],
+    [
+      "Vila Mariana",
+      "Santa Cruz",
+      1.14
+    ],
+    [
+      "Santa Cruz",
+      "Praça da Árvore",
+      1.38
+    ],
+    [
+      "Praça da Árvore",
+      "Saúde-Ultrafarma",
+      0.93
+    ],
+    [
+      "Saúde-Ultrafarma",
+      "São Judas",
+      0.87
+    ],
+    [
+      "São Judas",
+      "Conceição",
+      1.1
+    ],
+    [
+      "Conceição",
+      "Jabaquara",
+      1.31
+    ]
+  ],
+  "Verde (2)": [
+    [
+      "Vila Madalena",
+      "Santuário N. Sra. de Fátima-Sumaré",
+      1.51
+    ],
+    [
+      "Santuário N. Sra. de Fátima-Sumaré",
+      "Clínicas",
+      0.8
+    ],
+    [
+      "Clínicas",
+      "Paulista / Consolação",
+      1.09
+    ],
+    [
+      "Paulista / Consolação",
+      "Trianon-Masp",
+      1.05
+    ],
+    [
+      "Trianon-Masp",
+      "Brigadeiro",
+      0.93
+    ],
+    [
+      "Brigadeiro",
+      "Paraíso",
+      1.09
+    ],
+    [
+      "Paraíso",
+      "Ana Rosa",
+      0.74
+    ],
+    [
+      "Ana Rosa",
+      "Chácara Klabin",
+      1.55
+    ],
+    [
+      "Chácara Klabin",
+      "Santos-Imigrantes",
+      1.15
+    ],
+    [
+      "Santos-Imigrantes",
+      "Alto do Ipiranga",
+      1.14
+    ],
+    [
+      "Alto do Ipiranga",
+      "Sacomã",
+      1.07
+    ],
+    [
+      "Sacomã",
+      "Tamanduateí",
+      1.72
+    ],
+    [
+      "Tamanduateí",
+      "Vila Prudente",
+      1.2
+    ]
+  ],
+  "Vermelha (3)": [
+    [
+      "Palmeiras-Barra Funda",
+      "Marechal Deodoro",
+      1.57
+    ],
+    [
+      "Marechal Deodoro",
+      "Santa Cecília",
+      0.97
+    ],
+    [
+      "Santa Cecília",
+      "República",
+      0.83
+    ],
+    [
+      "República",
+      "Anhangabaú",
+      0.63
+    ],
+    [
+      "Anhangabaú",
+      "Sé",
+      0.73
+    ],
+    [
+      "Sé",
+      "Pedro II",
+      0.76
+    ],
+    [
+      "Pedro II",
+      "Brás",
+      1.11
+    ],
+    [
+      "Brás",
+      "Bresser-Mooca",
+      0.97
+    ],
+    [
+      "Bresser-Mooca",
+      "Belém",
+      1.9
+    ],
+    [
+      "Belém",
+      "Tatuapé",
+      1.44
+    ],
+    [
+      "Tatuapé",
+      "Carrão-Assaí Atacadista",
+      1.34
+    ],
+    [
+      "Carrão-Assaí Atacadista",
+      "Penha-Lojas Besni",
+      2.38
+    ],
+    [
+      "Penha-Lojas Besni",
+      "Vila Matilde",
+      1.27
+    ],
+    [
+      "Vila Matilde",
+      "Guilhermina-Esperança",
+      1.55
+    ],
+    [
+      "Guilhermina-Esperança",
+      "Patriarca-Vila Ré",
+      1.63
+    ],
+    [
+      "Patriarca-Vila Ré",
+      "Artur Alvim",
+      2.1
+    ],
+    [
+      "Artur Alvim",
+      "Corinthians-Itaquera",
+      1.47
+    ]
+  ],
+  "Amarela (4)": [
+    [
+      "Luz",
+      "República",
+      1.3
+    ],
+    [
+      "República",
+      "Higienópolis-Mackenzie",
+      1.14
+    ],
+    [
+      "Higienópolis-Mackenzie",
+      "Paulista / Consolação",
+      1.36
+    ],
+    [
+      "Paulista / Consolação",
+      "Oscar Freire",
+      1.23
+    ],
+    [
+      "Oscar Freire",
+      "Fradique Coutinho",
+      1.46
+    ],
+    [
+      "Fradique Coutinho",
+      "Faria Lima",
+      1.06
+    ],
+    [
+      "Faria Lima",
+      "Pinheiros",
+      0.9
+    ],
+    [
+      "Pinheiros",
+      "Butantã",
+      0.83
+    ],
+    [
+      "Butantã",
+      "São Paulo-Morumbi",
+      2.38
+    ],
+    [
+      "São Paulo-Morumbi",
+      "Vila Sônia",
+      1.45
+    ]
+  ],
+  "Lilás (5)": [
+    [
+      "Capão Redondo",
+      "Campo Limpo",
+      1.51
+    ],
+    [
+      "Campo Limpo",
+      "Vila das Belezas",
+      1.76
+    ],
+    [
+      "Vila das Belezas",
+      "Giovanni Gronchi",
+      1.33
+    ],
+    [
+      "Giovanni Gronchi",
+      "Santo Amaro",
+      2.05
+    ],
+    [
+      "Santo Amaro",
+      "Largo Treze",
+      1.07
+    ],
+    [
+      "Largo Treze",
+      "Adolfo Pinheiro",
+      0.81
+    ],
+    [
+      "Adolfo Pinheiro",
+      "Alto da Boa Vista",
+      1.09
+    ],
+    [
+      "Alto da Boa Vista",
+      "Borba Gato",
+      1.19
+    ],
+    [
+      "Borba Gato",
+      "Brooklin",
+      0.91
+    ],
+    [
+      "Brooklin",
+      "Campo Belo",
+      1.14
+    ],
+    [
+      "Campo Belo",
+      "Eucaliptos",
+      1.84
+    ],
+    [
+      "Eucaliptos",
+      "Moema",
+      0.98
+    ],
+    [
+      "Moema",
+      "AACD-Servidor",
+      1.26
+    ],
+    [
+      "AACD-Servidor",
+      "Hospital São Paulo",
+      0.73
+    ],
+    [
+      "Hospital São Paulo",
+      "Santa Cruz",
+      0.93
+    ],
+    [
+      "Santa Cruz",
+      "Chácara Klabin",
+      0.96
+    ]
+  ],
+  "Laranja (6)": [
+    [
+      "João Paulo I",
+      "Freguesia do Ó",
+      0.99
+    ],
+    [
+      "Freguesia do Ó",
+      "Santa Marina",
+      1.45
+    ],
+    [
+      "Santa Marina",
+      "Água Branca",
+      0.88
+    ],
+    [
+      "Água Branca",
+      "Sesc-Pompeia",
+      0.89
+    ],
+    [
+      "Sesc-Pompeia",
+      "Perdizes",
+      0.95
+    ]
+  ],
+  "Rubi (7)": [
+    [
+      "Luz",
+      "Palmeiras-Barra Funda",
+      3.7
+    ],
+    [
+      "Palmeiras-Barra Funda",
+      "Água Branca",
+      2.34
+    ],
+    [
+      "Água Branca",
+      "Lapa",
+      1.69
+    ],
+    [
+      "Lapa",
+      "Piqueri",
+      2.09
+    ],
+    [
+      "Piqueri",
+      "Pirituba",
+      2.05
+    ],
+    [
+      "Pirituba",
+      "Vila Clarice",
+      2.94
+    ],
+    [
+      "Vila Clarice",
+      "Jaraguá",
+      1.81
+    ],
+    [
+      "Jaraguá",
+      "Vila Aurora",
+      2.21
+    ],
+    [
+      "Vila Aurora",
+      "Perus",
+      3.91
+    ],
+    [
+      "Perus",
+      "Caieiras",
+      4.53
+    ],
+    [
+      "Caieiras",
+      "Franco da Rocha",
+      5.02
+    ],
+    [
+      "Franco da Rocha",
+      "Baltazar Fidélis",
+      2.33
+    ],
+    [
+      "Baltazar Fidélis",
+      "Francisco Morato",
+      3.89
+    ],
+    [
+      "Francisco Morato",
+      "Botujuru",
+      6.01
+    ],
+    [
+      "Botujuru",
+      "Campo Limpo Paulista",
+      3.91
+    ],
+    [
+      "Campo Limpo Paulista",
+      "Várzea Paulista",
+      4.71
+    ],
+    [
+      "Várzea Paulista",
+      "Jundiaí",
+      5.19
+    ]
+  ],
+  "Diamante (8)": [
+    [
+      "Júlio Prestes",
+      "Palmeiras-Barra Funda",
+      2.99
+    ],
+    [
+      "Palmeiras-Barra Funda",
+      "Lapa",
+      4.03
+    ],
+    [
+      "Lapa",
+      "Domingos de Moraes",
+      1.89
+    ],
+    [
+      "Domingos de Moraes",
+      "Imperatriz Leopoldina",
+      1.81
+    ],
+    [
+      "Imperatriz Leopoldina",
+      "Presidente Altino",
+      2.74
+    ],
+    [
+      "Presidente Altino",
+      "Osasco",
+      1.57
+    ],
+    [
+      "Osasco",
+      "Comandante Sampaio",
+      2.17
+    ],
+    [
+      "Comandante Sampaio",
+      "Quitaúna",
+      1.23
+    ],
+    [
+      "Quitaúna",
+      "General Miguel Costa",
+      0.94
+    ],
+    [
+      "General Miguel Costa",
+      "Carapicuíba",
+      2.16
+    ],
+    [
+      "Carapicuíba",
+      "Santa Terezinha",
+      1.38
+    ],
+    [
+      "Santa Terezinha",
+      "Antônio João",
+      1.15
+    ],
+    [
+      "Antônio João",
+      "Barueri",
+      1.82
+    ],
+    [
+      "Barueri",
+      "Jardim Belval",
+      1.53
+    ],
+    [
+      "Jardim Belval",
+      "Jardim Silveira",
+      1.2
+    ],
+    [
+      "Jardim Silveira",
+      "Jandira",
+      1.06
+    ],
+    [
+      "Jandira",
+      "Sagrado Coração",
+      1.61
+    ],
+    [
+      "Sagrado Coração",
+      "Engenheiro Cardoso",
+      1.41
+    ],
+    [
+      "Engenheiro Cardoso",
+      "Itapevi",
+      1.41
+    ],
+    [
+      "Itapevi",
+      "Santa Rita",
+      1.32
+    ],
+    [
+      "Santa Rita",
+      "Amador Bueno",
+      4.27
+    ]
+  ],
+  "Esmeralda (9)": [
+    [
+      "Osasco",
+      "Presidente Altino",
+      1.57
+    ],
+    [
+      "Presidente Altino",
+      "Ceasa",
+      2.19
+    ],
+    [
+      "Ceasa",
+      "Villa Lobos-Jaguaré",
+      1.42
+    ],
+    [
+      "Villa Lobos-Jaguaré",
+      "Cidade Universitária",
+      2.62
+    ],
+    [
+      "Cidade Universitária",
+      "Pinheiros",
+      1.48
+    ],
+    [
+      "Pinheiros",
+      "Hebraica-Rebouças",
+      0.89
+    ],
+    [
+      "Hebraica-Rebouças",
+      "Cidade Jardim",
+      1.57
+    ],
+    [
+      "Cidade Jardim",
+      "Vila Olímpia",
+      0.96
+    ],
+    [
+      "Vila Olímpia",
+      "Berrini",
+      1.39
+    ],
+    [
+      "Berrini",
+      "Morumbi",
+      2.12
+    ],
+    [
+      "Morumbi",
+      "Granja Julieta",
+      1.23
+    ],
+    [
+      "Granja Julieta",
+      "João Dias",
+      1.89
+    ],
+    [
+      "João Dias",
+      "Santo Amaro",
+      1.91
+    ],
+    [
+      "Santo Amaro",
+      "Socorro",
+      1.26
+    ],
+    [
+      "Socorro",
+      "Jurubatuba",
+      1.94
+    ],
+    [
+      "Jurubatuba",
+      "Autódromo",
+      3.63
+    ],
+    [
+      "Autódromo",
+      "Primavera-Interlagos",
+      2.01
+    ],
+    [
+      "Primavera-Interlagos",
+      "Grajaú",
+      1.66
+    ],
+    [
+      "Grajaú",
+      "Mendes-Vila Natal",
+      2.47
+    ],
+    [
+      "Mendes-Vila Natal",
+      "Varginha",
+      1.89
+    ]
+  ],
+  "Turquesa (10)": [
+    [
+      "Brás",
+      "Juventus-Mooca",
+      1.55
+    ],
+    [
+      "Juventus-Mooca",
+      "Ipiranga",
+      3.11
+    ],
+    [
+      "Ipiranga",
+      "Tamanduateí",
+      1.42
+    ],
+    [
+      "Tamanduateí",
+      "São Caetano do Sul-São Caetano",
+      2.9
+    ],
+    [
+      "São Caetano do Sul-São Caetano",
+      "Utinga",
+      3.36
+    ],
+    [
+      "Utinga",
+      "Prefeito Saladino",
+      1.63
+    ],
+    [
+      "Prefeito Saladino",
+      "Santo André",
+      1.84
+    ],
+    [
+      "Santo André",
+      "Capuava",
+      4.16
+    ],
+    [
+      "Capuava",
+      "Mauá",
+      3.25
+    ],
+    [
+      "Mauá",
+      "Guapituba",
+      3.09
+    ],
+    [
+      "Guapituba",
+      "Ribeirão Pires",
+      4.51
+    ],
+    [
+      "Ribeirão Pires",
+      "Rio Grande da Serra",
+      4.17
+    ]
+  ],
+  "Coral (11)": [
+    [
+      "Luz",
+      "Brás",
+      2.37
+    ],
+    [
+      "Brás",
+      "Tatuapé",
+      4.3
+    ],
+    [
+      "Tatuapé",
+      "Corinthians-Itaquera",
+      11.29
+    ],
+    [
+      "Corinthians-Itaquera",
+      "Dom Bosco",
+      2.46
+    ],
+    [
+      "Dom Bosco",
+      "José Bonifácio",
+      1.8
+    ],
+    [
+      "José Bonifácio",
+      "Guaianases",
+      1.76
+    ],
+    [
+      "Guaianases",
+      "Antônio Gianetti Neto",
+      3.69
+    ],
+    [
+      "Antônio Gianetti Neto",
+      "Ferraz de Vasconcelos",
+      2.29
+    ],
+    [
+      "Ferraz de Vasconcelos",
+      "Poá",
+      3.24
+    ],
+    [
+      "Poá",
+      "Calmon Viana",
+      1.13
+    ],
+    [
+      "Calmon Viana",
+      "Suzano",
+      2.84
+    ],
+    [
+      "Suzano",
+      "Jundiapeba",
+      5.42
+    ],
+    [
+      "Jundiapeba",
+      "Brás Cubas",
+      3.6
+    ],
+    [
+      "Brás Cubas",
+      "Mogi das Cruzes",
+      3.4
+    ],
+    [
+      "Mogi das Cruzes",
+      "Estudantes",
+      1.56
+    ]
+  ],
+  "Safira (12)": [
+    [
+      "Brás",
+      "Tatuapé",
+      4.3
+    ],
+    [
+      "Tatuapé",
+      "Engenheiro Goulart",
+      7.82
+    ],
+    [
+      "Engenheiro Goulart",
+      "USP Leste",
+      2.52
+    ],
+    [
+      "USP Leste",
+      "Comendador Ermelino",
+      1.96
+    ],
+    [
+      "Comendador Ermelino",
+      "São Miguel Paulista",
+      4.18
+    ],
+    [
+      "São Miguel Paulista",
+      "Jardim Helena-Vila Mara",
+      2.39
+    ],
+    [
+      "Jardim Helena-Vila Mara",
+      "Itaim Paulista",
+      2.08
+    ],
+    [
+      "Itaim Paulista",
+      "Jardim Romano",
+      2.04
+    ],
+    [
+      "Jardim Romano",
+      "Engenheiro Manoel Feio",
+      2.07
+    ],
+    [
+      "Engenheiro Manoel Feio",
+      "Calmon Viana",
+      6.57
+    ]
+  ],
+  "Jade (13)": [
+    [
+      "Engenheiro Goulart",
+      "Guarulhos-Cecap",
+      6.54
+    ],
+    [
+      "Guarulhos-Cecap",
+      "Aeroporto-Guarulhos",
+      1.7
+    ]
+  ],
+  "Prata (15)": [
+    [
+      "Vila Prudente",
+      "Oratório",
+      2.25
+    ],
+    [
+      "Oratório",
+      "São Lucas",
+      2.0
+    ],
+    [
+      "São Lucas",
+      "Camilo Haddad",
+      1.08
+    ],
+    [
+      "Camilo Haddad",
+      "Vila Tolstói",
+      1.26
+    ],
+    [
+      "Vila Tolstói",
+      "Vila União",
+      1.28
+    ],
+    [
+      "Vila União",
+      "Jardim Planalto",
+      0.94
+    ],
+    [
+      "Jardim Planalto",
+      "Sapopemba",
+      1.2
+    ],
+    [
+      "Sapopemba",
+      "Fazenda da Juta",
+      1.47
+    ],
+    [
+      "Fazenda da Juta",
+      "São Mateus",
+      1.08
+    ],
+    [
+      "São Mateus",
+      "Jardim Colonial",
+      1.77
+    ]
+  ],
+  "Ouro (17)": [
+    [
+      "Morumbi",
+      "Chucri Zaidan",
+      1.18
+    ],
+    [
+      "Chucri Zaidan",
+      "Vila Cordeiro",
+      0.76
+    ],
+    [
+      "Vila Cordeiro",
+      "Campo Belo",
+      0.72
+    ],
+    [
+      "Campo Belo",
+      "Vereador José Diniz",
+      0.57
+    ],
+    [
+      "Vereador José Diniz",
+      "Brooklin Paulista",
+      1.04
+    ],
+    [
+      "Brooklin Paulista",
+      "Aeroporto de Congonhas",
+      1.28
+    ],
+    [
+      "Brooklin Paulista",
+      "Washington Luís",
+      0.8
+    ]
+  ]
+}
