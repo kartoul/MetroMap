@@ -1,4 +1,4 @@
-
+import { useState } from "react";
 import MapaDaRede from "./assets/mapa-da-rede.png";
 
 const coresPorLinha = {
@@ -95,6 +95,16 @@ function estiloBola(cores) {
 }
 
 export default function Caminho({ rota = null, resetar }) {
+  const [imprimindo, setImprimindo] = useState(false);
+
+  function imprimirERetornar() {
+    setImprimindo(true);
+
+    setTimeout(() => {
+      setImprimindo(false);
+      resetar();
+    }, 2000);
+  }
 
   // Mapa inicial
   if (!rota) {
@@ -145,8 +155,8 @@ export default function Caminho({ rota = null, resetar }) {
                 {parada.tipo === "origem"
                   ? "PARTIDA"
                   : parada.tipo === "baldeacao"
-                  ? "BALDEAÇÃO"
-                  : "DESTINO"}
+                    ? "BALDEAÇÃO"
+                    : "DESTINO"}
               </span>
 
               <p className="text-[36px] font-bold text-center text-gray-800">
@@ -182,8 +192,16 @@ export default function Caminho({ rota = null, resetar }) {
 
         {/* BOTÃO DENTRO DA BORDA */}
         <button
+          onClick={imprimirERetornar}
+          disabled={imprimindo}
+          className="mt-8 w-full bg-cyan-800 p-3 rounded-[6px] text-mist-100 font-semibold shadow-2xl active:bg-cyan-900 active:text-mist-200 active:translate-y-0.5 transition-all disabled:opacity-60 disabled:cursor-not-allowed"
+        >
+          {imprimindo ? "Imprimindo..." : "Imprimir rota e voltar ao mapa"}
+        </button>
+        <button
           onClick={resetar}
-          className="mt-8 w-full bg-cyan-800 p-3 rounded-[6px] text-mist-100 font-semibold shadow-2xl active:bg-cyan-900 active:text-mist-200 active:translate-y-0.5 transition-all"
+          disabled={imprimindo}
+          className="mt-8 w-full bg-cyan-800 p-3 rounded-[6px] text-mist-100 font-semibold shadow-2xl active:bg-cyan-900 active:text-mist-200 active:translate-y-0.5 transition-all disabled:opacity-60"
         >
           Voltar ao mapa
         </button>
