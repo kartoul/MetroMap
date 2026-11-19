@@ -2,6 +2,7 @@ import { useState } from 'react'
 import BuscaRota from './BuscaRota'
 import Header from './Header'
 import Caminho from './Caminho'
+import PainelIoT from './PainelIoT'
 
 const App = () => {
   const [rota, setRota] = useState(null)
@@ -31,6 +32,7 @@ const App = () => {
       </div>
 
       <Caminho rota={rota} resetar={resetar} />
+      <PainelIoT/>
     </main>
   )
 }
